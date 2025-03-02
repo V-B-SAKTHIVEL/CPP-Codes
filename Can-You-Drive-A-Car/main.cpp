@@ -2,7 +2,6 @@
 using namespace std;
 
 void can_you_drive(int age, bool has_car) {
-    //----WRITE YOUR CODE BELOW THIS LINE----
     int n = 16 - age;
     if(age >= 16){
         if(has_car){
